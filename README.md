@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amine Kobeissi
 ======================================================================================================================================
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akobeissi&label=Profile%20views&color=0e75b6&style=flat" alt="akobeissi" /> </p>
+
 Data Scientist
 --------------
 
@@ -23,8 +24,7 @@ I am currently pursuing my undergraduate degree at McGill University, majoring i
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/AKobeissi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/amine-kobeissi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-<a href="https://kaggle.com/https://www.kaggle.com/aminekobeissi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aminekobeissi" height="30" width="40" /></a></p>
-</p>
+<a href="https://kaggle.com/https://www.kaggle.com/aminekobeissi" target="blank" rel="noreferrer"><src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aminekobeissi" height="32" width="32" /></a></p>
 
 
 <b>Top Repositories</b>
