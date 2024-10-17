@@ -10,7 +10,7 @@ I am currently pursuing my undergraduate degree at McGill University, majoring i
 * 🔭  I'm currently studying Mathematics & Business Analytics @ McGill Univseristy
 * 🧠  I'm learning more about C++, Generative AI frameworks, computer science
 * ⚡  I love playing trombone, I play in an orchestra and in a wind ensemble! I also enjoy playing basketball and participating in hackathons!
-* ✉️  You can contact me at [amine[dot]kobeissi[at]mail[dot]mcgill[dot]ca](mailto:amine.kobeissi@mail.mcgill.ca)
+* ✉️  You can contact me at [amine[dot]kobeissi[at]mail[dot]mcgill[dot]ca]
   
 ### Skills
 
