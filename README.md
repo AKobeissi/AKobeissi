@@ -20,7 +20,7 @@ I am passionate about Machine Learning, AI, and their applications in optimizati
 🏀 I enjoy playing basketball.
 
 📫 Let's Connect!
-Feel free to reach out to me via email at amine[dot]kobeissi[at]umontreal[dot]ca or on </a> <a href="https://www.linkedin.com/in/amine-kobeissi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture>.
+Feel free to reach out to me via email at amine[dot]kobeissi[at]umontreal[dot]ca or on LinkedIn
   
 ### Skills
 
