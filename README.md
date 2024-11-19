@@ -16,8 +16,8 @@ I am passionate about Machine Learning, AI, and their applications in optimizati
 * Developing a tool leveraging Large Language Models (LLMs) and graph-based learning to improve accessibility and UX for a navigation training app.
 
 ⚡ Fun Facts
-🎼 I love playing the trombone and perform in an orchestra and a wind ensemble!
-🏀 I enjoy playing basketball.
+* 🎼 I love playing the trombone and perform in an orchestra and a wind ensemble!
+* 🏀 I enjoy playing basketball.
 
 📫 Let's Connect!
 Feel free to reach out to me via email at amine[dot]kobeissi[at]umontreal[dot]ca or on LinkedIn
