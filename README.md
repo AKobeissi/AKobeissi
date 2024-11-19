@@ -5,12 +5,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-I am currently pursuing my undergraduate degree at McGill University, majoring in Mathematics, with a concentration in Business Analytics! I am passionate about Machine Learning and AI, with a strong interest in their applications to finance, textual analysis, data mining, and improving society for the better!
+I am currently pursuing my Master's degree in Computer Science at Université de Montréal, specializing in Artificial Intelligence. Previously, I completed my undergraduate degree in Mathematics with a concentration in Business Analytics at McGill University.
 
-* 🔭  I'm currently studying Mathematics & Business Analytics @ McGill Univseristy
-* 🧠  I'm learning more about C++, Generative AI frameworks, computer science
-* ⚡  I love playing trombone, I play in an orchestra and in a wind ensemble! I also enjoy playing basketball and participating in hackathons!
-* ✉️  You can contact me at amine[dot]kobeissi[at]mail[dot]mcgill[dot]ca
+I am passionate about Machine Learning, AI, and their applications in optimization and decision-making to improve society. My research interests lie at the intersection of machine learning, game theory, and operations research, with a particular focus on reinforcement learning and dynamical systems.
+
+🛠️ What I'm Currently Working On
+* Exploring reinforcement learning and graph-based ML to solve decision-making problems with uncertainty.
+* Learning more about probabilistic graphical models, deep learning, and optimization.
+* Applying AI techniques in domains such as financial analysis, text mining, and intelligent systems.
+* Developing a tool leveraging Large Language Models (LLMs) and graph-based learning to improve accessibility and UX for a navigation training app.
+
+⚡ Fun Facts
+🎼 I love playing the trombone and perform in an orchestra and a wind ensemble!
+🏀 I enjoy playing basketball.
+
+📫 Let's Connect!
+Feel free to reach out to me via email at amine[dot]kobeissi[at]umontreal[dot]ca or on </a> <a href="https://www.linkedin.com/in/amine-kobeissi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture>.
   
 ### Skills
 
