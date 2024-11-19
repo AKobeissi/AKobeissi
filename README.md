@@ -20,6 +20,7 @@ I am passionate about Machine Learning, AI, and their applications in optimizati
 * 🏀 I enjoy playing basketball.
 
 📫 Let's Connect!
+
 Feel free to reach out to me via email at amine[dot]kobeissi[at]umontreal[dot]ca or on LinkedIn
   
 ### Skills
