@@ -1,4 +1,4 @@
-Hi ! My name is Amine Kobeissi
+Hi! My name is Amine Kobeissi
 ======================================================================================================================================
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akobeissi&label=Profile%20views&color=0e75b6&style=flat" alt="akobeissi" /> </p>
 
@@ -7,7 +7,7 @@ Data Scientist
 
 I am currently pursuing my Master's degree in Computer Science at Université de Montréal, specializing in Artificial Intelligence. Previously, I completed my undergraduate degree in Mathematics with a concentration in Business Analytics at McGill University.
 
-I am passionate about Machine Learning, AI, and their applications in optimization and decision-making to improve society. My research interests lie at the intersection of machine learning, game theory, and operations research, with a particular focus on reinforcement learning and dynamical systems.
+I am passionate about Machine Learning, AI, and their applications in optimization and decision-making to improve society. My research interests lie at the intersection of machine learning, game theory, and operations research, with a particular focus on reinforcement learning.
 
 🛠️ What I'm Currently Working On
 * Exploring reinforcement learning and graph-based ML to solve decision-making problems with uncertainty.
