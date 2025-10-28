@@ -1,6 +1,5 @@
 Hi! My name is Amine Kobeissi
 ======================================================================================================================================
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akobeissi&label=Profile%20views&color=0e75b6&style=flat" alt="akobeissi" /> </p>
 
 I am currently pursuing my Master's degree in Computer Science at Université de Montréal, specializing in Artificial Intelligence. Previously, I completed my undergraduate degree in Mathematics with a concentration in Business Analytics at McGill University.
 
